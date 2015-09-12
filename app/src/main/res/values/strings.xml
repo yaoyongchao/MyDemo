@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyDemo</string>
+
+    <string name="hello_world">Hello world! 我是 好人</string>
+    <string name="action_settings">Settings</string>
+</resources>
